@@ -1,2 +1,2 @@
 # checkInputHelper
-## USeful code
+## Useful code
