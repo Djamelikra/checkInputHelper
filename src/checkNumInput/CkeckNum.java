@@ -8,8 +8,9 @@ public class CkeckNum {
 		try {
 			Integer.parseInt(input);
 			check = true;
-		} catch (Exception e) {
+		} catch (Exception  e) {
 			check = false;
+
 		}
 		
 		return check;
